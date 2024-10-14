@@ -12,6 +12,13 @@ This project implements the game of chess, where two players take turns moving p
   - Pawn promotion
   - Check and checkmate detection
 - Move validation and illegal move prevention
+- Opening move will be taken by white piece.
+
+
+#### Demo
+
+
+https://github.com/user-attachments/assets/624092aa-0cbc-4c48-ba17-fbba0c619514
 
 
 
